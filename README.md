@@ -12,7 +12,7 @@
 ___Install SCRIPT only___
 
 ```
-wget https://raw.githubusercontent.com/januda-ui/DRAGON-VPS-MANAGER/main/hehe; chmod 777 hehe;./hehe
+wget https://raw.githubusercontent.com/qromzi/DRAGON-VPS-MANAGER/main/hehe; chmod 777 hehe;./hehe
 
 ```
 ## ㅤ
@@ -20,7 +20,7 @@ wget https://raw.githubusercontent.com/januda-ui/DRAGON-VPS-MANAGER/main/hehe; c
 ___Update System Packages and Install SCRIPT___
 
 ```
-apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/januda-ui/DRAGON-VPS-MANAGER/main/hehe; chmod 777 hehe;./hehe
+apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/qromzi/DRAGON-VPS-MANAGER/main/hehe; chmod 777 hehe;./hehe
 
 ```
 
